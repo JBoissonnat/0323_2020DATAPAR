@@ -13,4 +13,4 @@
 
 * Which industry will you seek employment in? Research labs and companies in geographic data
 * What will your future role look like? Something more like Data Scientist in this field
-* What is your career goal? To find a job like this within the 3-4 next months
+* What is your career goal? To find a job in this field within the next 3 or 4 months
